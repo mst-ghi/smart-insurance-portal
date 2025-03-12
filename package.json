@@ -1,0 +1,43 @@
+{
+  "name": "smart-insurance-portal",
+  "author": "Mostafa Gholami (mostafagholamidev@gmail.com)",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mantine/core": "^7.17.1",
+    "@mantine/dates": "^7.17.1",
+    "@mantine/form": "^7.17.1",
+    "@mantine/hooks": "^7.17.1",
+    "@mantine/modals": "^7.17.1",
+    "@mantine/notifications": "^7.17.1",
+    "@tabler/icons-react": "^3.31.0",
+    "@tanstack/react-query": "^5.67.3",
+    "dayjs": "^1.11.13",
+    "mantine-form-zod-resolver": "^1.1.0",
+    "next": "15.2.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "sharp": "^0.33.5",
+    "zod": "^3.24.2",
+    "zustand": "^5.0.3"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.2",
+    "postcss": "^8.5.3",
+    "postcss-preset-mantine": "^1.17.0",
+    "postcss-simple-vars": "^7.0.1",
+    "prettier": "^3.5.3",
+    "typescript": "^5"
+  }
+}

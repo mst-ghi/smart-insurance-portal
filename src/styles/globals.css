@@ -1,0 +1,14 @@
+html,
+body {
+  max-width: 100vw;
+  overflow: hidden;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.mantine-InputWrapper-label {
+  margin-left: 4px;
+}
