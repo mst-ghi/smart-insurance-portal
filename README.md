@@ -7,8 +7,9 @@ UI Library: [Mantine](https://mantine.dev) </br>
 Icons: [Tabler](https://tabler-icons.io) </br>
 
 ## Preview
+https://github.com/user-attachments/assets/535bdbb6-a8c7-4fcc-a8a5-d068b327d6eb
 
-[s.i.p.mp4](https://github.com/mst-ghi/smart-insurance-portal/raw/main/s.i.p.mp4)
+
 
 ## Project setup
 
