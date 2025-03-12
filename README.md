@@ -7,9 +7,8 @@ UI Library: [Mantine](https://mantine.dev) </br>
 Icons: [Tabler](https://tabler-icons.io) </br>
 
 ## Preview
+
 https://github.com/user-attachments/assets/535bdbb6-a8c7-4fcc-a8a5-d068b327d6eb
-
-
 
 ## Project setup
 
