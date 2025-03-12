@@ -1,10 +1,14 @@
 ## Devotel Smart Insurance Portal Demo
 
+## 🌐 Online Demo
+
+🔗 [Click here to view the demo](https://s-i-p.vercel.app/) 🚀
+
 ## Overview
 
-Framework: [Nextjs](https://nextjs.org) </br>
-UI Library: [Mantine](https://mantine.dev) </br>
-Icons: [Tabler](https://tabler-icons.io) </br>
+Framework: 🔗 [Nextjs](https://nextjs.org) </br>
+UI Library: 🔗 [Mantine](https://mantine.dev) </br>
+Icons: 🔗 [Tabler](https://tabler-icons.io) </br>
 
 ## Preview
 
